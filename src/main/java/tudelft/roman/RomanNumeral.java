@@ -34,4 +34,9 @@ public class RomanNumeral {
         return convertedNumber;
 
     }
+
+    public String convert(int dec) {
+        StringBuilder roman = new StringBuilder();
+        return roman.toString();
+    }
 }
